@@ -1,7 +1,5 @@
 let urls = [
 	'https://www.fnshop.fnyun.vip#FnCloud CDN',
-	'https://www.fnshop.fnyun.co#Cloudflare1 CDN',
-	'https://www.shop.fn.fntao5.cn#Cloudflare CDN',
 	'https://www.fnshop1.fntaowu.com#Doki1 CND',
 	'https://www.fnshop.fny6.top#Doki2 CND'
 ];
