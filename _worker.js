@@ -1,5 +1,5 @@
 let urls = [
-        'https://www.fnshop.fntaowu.com#Doki CND',
+        'https://www.fnshop1.fntaowu.com#Doki CND',
 	'https://www.fnshop.fnyun.vip#FnCloud CDN',
 	'https://www.fnshop.fnyun.co#Vercel1 CDN',
 	'https://www.fnshop.fntao5.cn#Vercel2 CDN',
