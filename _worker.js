@@ -1,9 +1,10 @@
 let urls = [
-	'https://qq.fnyun.co#qq.fnyun.co',
-	'https://cloud.fnyun.co#cloud.fnyun.co',
-	'https://fncloud.fnyun.vip#fncloud.fnyun.vip',
-	'https://cloud.fntao5.cn#cloud.fntao5.cn',
-	'https://cloud.fncloud.top/#cloud.fncloud.top'
+        'https://www.fnshop.fntaowu.com#Doki CND',
+	'https://www.fnshop.fnyun.vip#FnCloud CDN',
+	'https://www.fnshop.fnyun.co#Vercel1 CDN',
+	'https://www.fnshop.fntao5.cn#Vercel2 CDN',
+	'https://www.fnshop.fny6.top#Cloudflare1 CDN',
+	'https://www.fnshop.fncloud.top#Cloudflare2 CDN'
 ];
 
 export default {
@@ -19,8 +20,8 @@ export default {
 		const 网站图标 = env.ICO || 'https://tencentcdna.production.link3.cc/user_create_images/link3_1750703159775/multiple_images/1751906091715';
 		const 网站头像 = env.PNG || 'https://tencentcdna.production.link3.cc/user_create_images/link3_1750703159775/multiple_images/1751906091715';
 		const 网络备案 = env.BEIAN || `<a href='https://www.link3.cc/fnyun'`;
-		const 网页标题 = env.TITLE || 'Fn Cloud蜂鸟云νPN订阅🚀';
-		const 站点名称 = env.NAME || '蜂鸟云智能访问';
+		const 网页标题 = env.TITLE || 'Fn Shop蜂鸟账号商场';
+		const 站点名称 = env.NAME || '蜂鸟云海外商城';
 		if (url.pathname.toLowerCase() == '/ads.txt') {
 			return new Response(ads, {
 				headers: {
