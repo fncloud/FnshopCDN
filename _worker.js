@@ -1,10 +1,10 @@
 let urls = [
-        'https://www.fnshop1.fntaowu.com#Doki CND',
+        'https://www.fnshop1.fntaowu.com#FnCloud1 CDN',
 	'https://www.fnshop.fnyun.vip#FnCloud CDN',
-	'https://www.fnshop.fnyun.co#Vercel1 CDN',
-	'https://www.fnshop.fntao5.cn#Vercel2 CDN',
-	'https://www.fnshop.fny6.top#Cloudflare1 CDN',
-	'https://www.fnshop.fncloud.top#Cloudflare2 CDN'
+	'https://www.fnshop.fnyun.co#Cloudflare1 CDN',
+	'https://www.fnshop.fntao5.cn#Cloudflare CDN',
+	'https://www.fnshop1.fntaowu.com#Doki1 CND',
+	'https://www.fnshop.fny6.top#Doki2 CND'
 ];
 
 export default {
